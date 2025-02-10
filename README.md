@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I´m currently a cybersecurity student
+- Focus on penetration testing
+
 <!--
 **MonsterB15/MonsterB15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
